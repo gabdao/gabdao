@@ -39,11 +39,8 @@
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldaouk1&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldaouk1&layout=compact&theme=radical" />
+  <img src="https://media.tenor.com/q3Jz_q7JH4cAAAAi/scorbunny-pokemon.gif" width="200px" />
 </p>
 
 ---
