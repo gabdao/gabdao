@@ -39,6 +39,10 @@
 
 ---
 
+<p align="left">
+  <img src="https://github.com/gabrieldaouk1/gabrieldaouk1/blob/main/assets/pika.gif?raw=true" width="200px" />
+</p>
+
 <p align="right">
   <img src="https://github.com/gabrieldaouk1/gabrieldaouk1/blob/main/assets/scorbunny-pokemon.gif?raw=true" width="200px" />
 </p>
