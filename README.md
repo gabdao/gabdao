@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel !</h1>
 <h3 align="center">Computer Science Student at Epitech</h3>
+<p align="right">
+  <img src="https://github.com/gabrieldaouk1/gabrieldaouk1/blob/main/assets/scorbunny-pokemon.gif?raw=true" width="200px" />
+</p>
 
 ---
 
@@ -38,10 +41,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
-<p align="center">
-  <img src="https://github.com/gabrieldaouk1/gabrieldaouk1/blob/main/assets/scorbunny-pokemon.gif?raw=true" width="200px" />
-</p>
-
----
-
