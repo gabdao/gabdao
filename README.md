@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/q3Jz_q7JH4cAAAAi/scorbunny-pokemon.gif" width="200px" />
+  <img src="https://github.com/gabrieldaouk1/gabrieldaouk1/blob/main/assets/scorbunny-pokemon.gif?raw=true" width="200px" />
 </p>
 
 ---
