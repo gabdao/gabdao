@@ -4,8 +4,8 @@
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently working on my **personal portfolio website**
-- 🧪 My current school project is **Pipeto**, focused on **reverse engineering**
+- 🔭 I’m currently working on **AWS Bootcamp**
+- 🧪 My current school project is **Corewar**, focused on **memory simulation**
 - 🌱 I’m currently learning **Go**
 - 📱 I’m brainstorming ideas for **mobile app projects**
 
