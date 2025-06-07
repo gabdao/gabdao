@@ -1,11 +1,19 @@
 # About Me:
-<p align="center">
-  <img src="./assets/ligue1-kiss-psg.gif" alt="Neymar" width="300">
-</p>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🛠 I'm currently working on <strong>AWS Bootcamp</strong></li>
+        <li>🖋 My current school project is <strong>Corewar</strong>, focused on <strong>memory simulation</strong></li>
+        <li>🌱 I’m currently learning <strong>Go</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="./assets/neymar.gif" alt="Neymar" width="150">
+    </td>
+  </tr>
+</table>
 
-- 🔭 I'm currently working on **AWS Bootcamp**<br>
-- 🧪 My current school project is **Corewar**, focused on **memory simulation**<br>
-- 🌱 I'm currently learning **Go**<br>
 
 # 💻 Tech Stack:
 
