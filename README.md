@@ -1,5 +1,7 @@
-# 💫 About Me:
-- 🔭 I'm currently working on **AWS Bootcamp**<br> - 🧪 My current school project is **Corewar**, focused on **memory simulation**<br> - 🌱 I'm currently learning **Go**<br>
+# About Me:
+- 🔭 I'm currently working on **AWS Bootcamp**<br>
+- 🧪 My current school project is **Corewar**, focused on **memory simulation**<br>
+- 🌱 I'm currently learning **Go**<br>
 
 # 💻 Tech Stack:
 
