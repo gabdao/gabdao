@@ -1,5 +1,5 @@
 # About Me:
-<table>
+<table border="0">
   <tr>
     <td>
       <ul>
@@ -8,11 +8,12 @@
         <li>🌱 I’m currently learning <strong>Go</strong></li>
       </ul>
     </td>
-    <td>
+    <td align="right">
       <img src="./assets/neymar.gif" alt="Neymar" width="150">
     </td>
   </tr>
 </table>
+
 
 
 # 💻 Tech Stack:
