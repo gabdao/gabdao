@@ -1,6 +1,6 @@
 # About Me:
 - 🔭 I'm currently working on **AWS Bootcamp**<br>
-- 🧪 My current school project is **Corewar**, focused on **memory simulation**<br>  ![Neymar](./assets/Ligue 1 Kiss GIF by Paris Saint-Germain.gif)
+- 🧪 My current school project is **Corewar**, focused on **memory simulation**<br>  ![Neymar](assets/Ligue 1 Kiss GIF by Paris Saint-Germain.gif)
 - 🌱 I'm currently learning **Go**<br>
 
 # 💻 Tech Stack:
