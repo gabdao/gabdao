@@ -1,6 +1,10 @@
 # About Me:
+<p align="center">
+  <img src="./assets/ligue1-kiss-psg.gif" alt="Neymar" width="300">
+</p>
+
 - 🔭 I'm currently working on **AWS Bootcamp**<br>
-- 🧪 My current school project is **Corewar**, focused on **memory simulation**<br>  ![Neymar](assets/Ligue 1 Kiss GIF by Paris Saint-Germain.gif)
+- 🧪 My current school project is **Corewar**, focused on **memory simulation**<br>
 - 🌱 I'm currently learning **Go**<br>
 
 # 💻 Tech Stack:
