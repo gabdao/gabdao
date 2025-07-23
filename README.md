@@ -5,7 +5,7 @@
       <ul>
         <li>🔭 I'm currently working on <strong>AWS Bootcamp</strong></li>
         <li>🧪 My current school project is <strong>Corewar</strong>, focused on <strong>memory simulation</strong></li>
-        <li>🌱 I’m currently learning <strong>Go</strong></li>
+        <li>🌱 I’m currently learning <strong>c# and dotnet</strong></li>
       </ul>
     </td>
     <td align="right">
