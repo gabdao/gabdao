@@ -1,13 +1,6 @@
 # About Me:
 <table border="0">
   <tr>
-    <td>
-      <ul>
-        <li>🔭 I'm currently working on <strong>AWS Bootcamp</strong></li>
-        <li>🧪 My current school project is <strong>Corewar</strong>, focused on <strong>memory simulation</strong></li>
-        <li>🌱 I’m currently learning <strong>c#</strong> and <strong>dotnet</strong></li>
-      </ul>
-    </td>
     <td align="right">
       <img src="./assets/neymar.gif" alt="Neymar" width="150">
     </td>
